@@ -1,2 +1,2 @@
 # College-Event
-College event database for Database Systems COP 4710
+College event database for Database Systems CAP 4453
